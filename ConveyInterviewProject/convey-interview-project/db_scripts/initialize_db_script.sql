@@ -1,0 +1,3 @@
+CREATE DATABASE convey_db;
+
+CREATE SCHEMA public;
